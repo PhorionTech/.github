@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-Welcome to Phorion, an enterprise EDR company dedicated to providing top-notch cyber security solutions soley for macOS devices. Our team is committed to building cutting-edge tools and products that provide unparalleled protection for your enterprise. 
+Welcome to [Phorion](https://phorion.io/), an enterprise EDR company dedicated to providing top-notch cyber security solutions soley for macOS devices. Our team is committed to building cutting-edge tools and products that provide unparalleled protection for your enterprise. 
 
 ### Kronos
 
